@@ -3,7 +3,7 @@
 </div>  
   
 
-### **<div align="center">Guruprasad J Rao | Sr Technical Manager | Invenger Technologies Pvt Ltd and OneInc</div>**  
+### **<div align="center">Guruprasad J Rao | Team Manager | EG A/S</div>**  
   
 
 - 🔭 I’m currently working on Java, Springboot and Angular  
